@@ -9,7 +9,10 @@ class Teacher{
   public String getName() {
     return name;
   }
+  //乱码的解决
+  public static void addTwo(){
 
+  }
   // set方法
   public void setName(String name) {
     this.name = name;
